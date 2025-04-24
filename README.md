@@ -6,6 +6,7 @@
 - [ ] [Llama 3 vs Qwen 2: The Best Open Source AI Models of 2024](https://dev.to/novita_ai/llama-3-vs-qwen-2-the-best-open-source-ai-models-of-2024-9pj)
 - [ ] [The AI Agents stack](https://www.letta.com/blog/ai-agents-stack)
 - [ ] [Khám Phá Cline: Công cụ lập trình AI thế hệ tiếp theo](https://apidog.com/vi/blog/what-is-cline/)
+- [ ] [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
 
 ## Videos
 - [ ] [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
