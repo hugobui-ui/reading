@@ -9,7 +9,7 @@
 - [ ] [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
 
 ## Videos
-- [ ] [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+- [x] [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 - [ ] [Applied Model Context Protocol (MCP) In 20 Minutes](https://youtu.be/eD0uBLr-eP8)
 
 # Web Development
